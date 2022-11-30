@@ -1,4 +1,4 @@
-# actions.do - Actions Primitive for APIs
+# Actions.do - Actions Primitive for APIs
 
 Explore the API at: <https://actions.do/api>
 
