@@ -1,7 +1,7 @@
 export const api = {
   icon: '🚀',
   name: 'actions.do',
-  description: 'Cloudflare Worker Template',
+  description: 'Actions Primitive for Hypermedia API Development',
   url: 'https://actions.do/api',
   type: 'https://apis.do/primitives',
   endpoints: {
